@@ -1,0 +1,9 @@
+﻿body { 
+    background: #e8e8e8;
+}
+.barra {
+    position:absolute;
+    background: #fffff;
+    width:100%;
+    height:40px;
+}

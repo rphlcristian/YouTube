@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RAPHAEL-PC</Machine>
+    <WindowsUser>Raphael</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>c674ff00-0569-11e6-8d03-c3a7bc80eec9</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Raphael\Desktop\YouTube\YouTube\platforms\windows\build\windows\bld\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>B0F08FEF167A4050DAFB3AF1542F208A0F0470FA28C8F93E18907C5AD7E12702</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>io.cordova.myapp85a239_1.0.0.0_x64__h35559jr9hy9m</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>io.cordova.myapp85a239_h35559jr9hy9m!io.cordova.myapp85a239</RegisteredUserModeAppID>
+    <RegisteredPackageID>io.cordova.myapp85a239</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Apache Cordova Team</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Raphael\Desktop\YouTube\YouTube\platforms\windows\build\windows\debug\x64\win10\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-18T13:59:57.138</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Raphael\Desktop\YouTube\YouTube\platforms\windows\images\SplashScreen.scale-100.png">
+      <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-18T13:59:53.434</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raphael\Desktop\YouTube\YouTube\platforms\windows\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-18T13:59:53.376</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raphael\Desktop\YouTube\YouTube\platforms\windows\images\Square30x30Logo.scale-100.png">
+      <PackagePath>images\Square30x30Logo.scale-100.png</PackagePath>
+      <Modified>2016-04-18T13:59:53.386</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raphael\Desktop\YouTube\YouTube\platforms\windows\images\Square310x310Logo.scale-100.png">
+      <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-18T13:59:53.390</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raphael\Desktop\YouTube\YouTube\platforms\windows\images\Square44x44Logo.scale-100.png">
+      <PackagePath>images\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-18T13:59:53.394</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raphael\Desktop\YouTube\YouTube\platforms\windows\images\Square70x70Logo.scale-100.png">
+      <PackagePath>images\Square70x70Logo.scale-100.png</PackagePath>
+      <Modified>2016-04-18T13:59:53.402</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raphael\Desktop\YouTube\YouTube\platforms\windows\images\Square71x71Logo.scale-100.png">
+      <PackagePath>images\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-18T13:59:53.406</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raphael\Desktop\YouTube\YouTube\platforms\windows\images\StoreLogo.scale-100.png">
+      <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-18T13:59:53.414</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raphael\Desktop\YouTube\YouTube\platforms\windows\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-18T13:59:53.424</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raphael\Desktop\YouTube\YouTube\platforms\windows\www\images\cordova.png">
+      <PackagePath>www\images\cordova.png</PackagePath>
+      <Modified>2016-04-18T13:59:53.157</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raphael\Desktop\YouTube\YouTube\platforms\windows\www\cordova-js-src\exec.js">
+      <PackagePath>www\cordova-js-src\exec.js</PackagePath>
+      <Modified>2016-04-18T13:59:54.698</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raphael\Desktop\YouTube\YouTube\platforms\windows\www\cordova-js-src\platform.js">
+      <PackagePath>www\cordova-js-src\platform.js</PackagePath>
+      <Modified>2016-04-18T13:59:54.703</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raphael\Desktop\YouTube\YouTube\platforms\windows\www\cordova.js">
+      <PackagePath>www\cordova.js</PackagePath>
+      <Modified>2016-04-18T13:59:53.216</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raphael\Desktop\YouTube\YouTube\platforms\windows\www\cordova_plugins.js">
+      <PackagePath>www\cordova_plugins.js</PackagePath>
+      <Modified>2016-04-18T13:59:54.712</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raphael\Desktop\YouTube\YouTube\platforms\windows\www\scripts\index.js">
+      <PackagePath>www\scripts\index.js</PackagePath>
+      <Modified>2016-04-18T13:59:53.165</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raphael\Desktop\YouTube\YouTube\platforms\windows\www\scripts\platformOverrides.js">
+      <PackagePath>www\scripts\platformOverrides.js</PackagePath>
+      <Modified>2016-04-18T13:59:53.234</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raphael\Desktop\YouTube\YouTube\platforms\windows\www\scripts\winstore-jscompat.js">
+      <PackagePath>www\scripts\winstore-jscompat.js</PackagePath>
+      <Modified>2016-04-18T13:59:53.236</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raphael\Desktop\YouTube\YouTube\platforms\windows\www\WinJS\js\base.js">
+      <PackagePath>www\WinJS\js\base.js</PackagePath>
+      <Modified>2016-04-18T13:59:53.225</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raphael\Desktop\YouTube\YouTube\platforms\windows\www\css\index.css">
+      <PackagePath>www\css\index.css</PackagePath>
+      <Modified>2016-04-18T13:59:54.716</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raphael\Desktop\YouTube\YouTube\platforms\windows\www\index.html">
+      <PackagePath>www\index.html</PackagePath>
+      <Modified>2016-04-18T13:59:54.720</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raphael\Desktop\YouTube\YouTube\platforms\windows\config.xml">
+      <PackagePath>config.xml</PackagePath>
+      <Modified>2016-04-18T13:59:53.121</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raphael\Desktop\YouTube\YouTube\platforms\windows\build\windows\debug\x64\win10\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-04-18T13:59:56.799</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
